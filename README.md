@@ -2,7 +2,7 @@
 
 Recursion is a method which breaks the problem into smaller sub problems and calls itself for each of the problems. This is demonstarted by implementing Pascal's Triangle, Parenthesis Balancing etc problems using recursive process in scala 
 
-Please refer RecFun.scala at src\main\scala\recfun path 
+Please refer RecFun.scala placed under src\main\scala\recfun path 
 
 ## Exercise 1: Pascal’s Triangle
 

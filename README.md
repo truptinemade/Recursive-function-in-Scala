@@ -1,8 +1,6 @@
 ## Recursive-function-in-Scala
 
-Recursion is a method which breaks the problem into smaller sub problems and calls itself for each of the problems
-
-This is demonstarted by implementing Pascal's Triangle, Parenthesis Balancing etc problems using recursive process in scala 
+Recursion is a method which breaks the problem into smaller sub problems and calls itself for each of the problems. This is demonstarted by implementing Pascal's Triangle, Parenthesis Balancing etc problems using recursive process in scala 
 
 Please refer RecFun.scala at src\main\scala\recfun path 
 
@@ -13,7 +11,7 @@ In RecFun.scala, code after Exercise 1 comment computes the elements of Pascal�
 
 ## Exercise 2: Parentheses Balancing
 
-Code after exercise 2 comment in ReFun.scala implements a recursive function which verifies the balancing of parentheses in a string
+Code after exercise 2 comment in ReFun.scala implements a recursive function which verifies the balancing of parentheses in a string.
 For example, the function should return true for the following strings:
 1. (if (zero? x) max (/ 1 x))
 2. I told him (that it’s not (yet) done). (But he wasn’t listening)
